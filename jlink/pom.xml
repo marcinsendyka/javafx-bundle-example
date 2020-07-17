@@ -62,7 +62,6 @@
                                         <name>org.json</name>
                                     </moduleInfo>
                                 </module>
-
                             </modules>
                             <module>
                                 <mainClass>javafx.bundle.example.App</mainClass>
